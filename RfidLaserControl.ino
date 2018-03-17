@@ -1,3 +1,8 @@
+#include <MFRC522Extended.h>
+#include <MFRC522.h>
+#include <deprecated.h>
+#include <require_cpp11.h>
+
 /*
  * MFRC522 - Library to use ARDUINO RFID MODULE KIT 13.56 MHZ WITH TAGS SPI W AND R BY COOQROBOT.
  * The library file MFRC522.h has a wealth of useful info. Please read it.

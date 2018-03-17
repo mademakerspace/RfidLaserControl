@@ -1,7 +1,7 @@
 RfidLaserControl
 ================
 
-Control the Laser Cutter payment system using Arduino.
+Payment system for Laser Cutter machine using Arduino.
 
 Made in [MADE Makerspace Barcelona](http://made-bcn.org/).
 
